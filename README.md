@@ -1,4 +1,4 @@
-# 🔘 $ whoami
+# 😈 $ whoami
 **`Cypherpunk | Malware Alchemist`**<br>
 <br>
 I break stuff<br> Sometimes I make stuff<br>
@@ -30,7 +30,7 @@ I break stuff<br> Sometimes I make stuff<br>
 
 
 <details open> 
-  <summary><h3>🔳 GitHub Stats:</h3></summary>
+  <summary><h3> 🐦 GitHub Stats:</h3></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=R3D1AM&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=R3D1AM&theme=shadow_red&hide_border=false)<br/>
