@@ -35,6 +35,5 @@ I break stuff<br> Sometimes I make stuff<br>
 ![](https://github-readme-stats.vercel.app/api?username=R3D1AM&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=R3D1AM&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R3D1AM&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=R3D1AM&icon=8&color=4)](https://visitcount.itsvg.in)
 ---
 [![](https://visitcount.itsvg.in/api?id=R3D1AM&icon=8&color=4)](https://visitcount.itsvg.in)
